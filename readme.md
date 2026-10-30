@@ -53,8 +53,10 @@ página que permite simular compras de produtos.
 ![Página inicial da Pixel Store](assets/screenshot.png)
 
 
-## Estrutura do projeto
 
+## Estrutura do Projeto
+
+```text
 pixel-store/
 ├── index.html
 ├── style.css
@@ -65,3 +67,4 @@ pixel-store/
     ├── teclado.png
     ├── headset.png
     └── screenshot.png
+```
